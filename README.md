@@ -15,9 +15,9 @@ The battery life and performance claims were absent in my end-user experience-
 That's why I created the repository to resolve complaints with a quick-fix script.
 This script does **not** solve the entire WS issue- only the majority compute waste.
 
-All working solutions for Sequoia 15.5 are welcome to contributors
-Ideally, is a first-party solution to WindowServer issue (e.g. faults @ 500/s)
-I'll update with any new fixes discovered, hopefully unnecessary.
+All working solutions for Sequoia 15.5 are welcome to contributors.
+Ideally, is a first-party solution to the WindowServer issue (e.g. faults @ 500/s).
+I'll update upon discovering any new fix, fingers crossed for an upstream patch.
 
 - Reference: [Chrome is Bad](https://chromeisbad.com)
 
