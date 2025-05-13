@@ -19,7 +19,7 @@ All working solutions for Sequoia 15.5 are welcome to contributors
 Ideally, is a first-party solution to WindowServer issue (e.g. faults @ 500/s)
 I'll update with any new fixes discovered, hopefully unnecessary.
 
-- Reference:[Chrome is Bad](https://chromeisbad.com)
+- Reference: [Chrome is Bad](https://chromeisbad.com)
 
 ## Prerequisites
 
