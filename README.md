@@ -9,11 +9,11 @@ A Zsh utility for macOS that automates:
 - **fix**     — Run `rm` → `bkup` → `reset` in one step  
 
 ## Information
-I recently began using Mac OS X 15.4, and now 15.5 Beta on an M4 Pro.
+I recently began using Mac OS X 15.4, and now 15.5 Beta on an M4 Pro. 
 The battery life and performance claims were absent in my end-user experience-
 "WindowServer" is mostly responsible for this significant impact, with no fix.
-That's why I publicized this repository to solve users with a simple script.
-This script does **not** solve the entire WS issue- only the majority %CPU waste.
+That's why I created the repository to resolve complaints with a quick-fix script.
+This script does **not** solve the entire WS issue- only the majority compute waste.
 
 All working solutions for Sequoia 15.5 are welcome to contributors
 Ideally, is a first-party solution to WindowServer issue (e.g. faults @ 500/s)
